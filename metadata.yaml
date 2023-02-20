@@ -1,5 +1,8 @@
 _repo: The-instinct-of-workmanship-and-the-state-of-industrial-arts_69888
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69888-h/images/cover.jpg
 creator:
   author:
     agent_name: Veblen, Thorstein
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/438
     wikipedia: https://en.wikipedia.org/wiki/Thorstein_Veblen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69888#The-instinct-of-workmanship-and-the-state-of-industrial-arts
 gutenberg_issued: '2023-01-28'
 identifiers:
   gutenberg: '69888'
